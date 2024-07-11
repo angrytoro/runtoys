@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "runtoys",
   outDir: "./docs",
+  base: "/runtoys/",
   description: "一个谁都不想用的开发工具",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
