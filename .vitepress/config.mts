@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "runtoys",
+  outDir: "./docs",
   description: "一个谁都不想用的开发工具",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
