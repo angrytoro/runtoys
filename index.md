@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "runtoys"
-  text: "一个谁都不想用的开发工具"
-  tagline: My great project tagline
+  text: "就是自己玩的，用来提升效率的"
+  tagline: 不要特意找作者
   actions:
     - theme: brand
       text: Markdown Examples
