@@ -12,7 +12,7 @@ hero:
       link: ./runtoys.exe
     - theme: alt
       text: Mac 版本下载
-      link: /
+      link: /runtoys_aarch64.dmg
 
 features:
   - title: 编码解码
